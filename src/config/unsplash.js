@@ -1,0 +1,2 @@
+export const UNSPLASH_APPLICATION = "zFDyTOpkN-PG4xfrW_F9sWJM6HGgWS2bfCee4-Jrzco"
+export const UNSPLASH_SECRET = "9Gowo9xMOKtp_aZFQ0SxBPzfJBR8T1xph27tMOWzEq4"
